@@ -47,10 +47,10 @@ Now that you know all about CSS colours, try your hand at Lea Verou's colour gue
 
 ## Sponsors
 
-Last but least, a big thank you to our great sponsors who make MelbCSS possible!
+Last but not least, a big thank you to our great sponsors who make MelbCSS possible!
 
-- 99designs
-- Envato
-- Kiandra
+- [99designs](http://99designs.com/)
+- [Envato](http://envato.com/)
+- [Kiandra](http://kiandra.com/)
 
-See you next month! 
+See you next month!
