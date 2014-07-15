@@ -1,8 +1,6 @@
 # MelbCSS July 2014
 
-Thank you for your patience, this is well overdue.
-
-On behalf of all the organiser I'd like to give a big thank to every who attended and of course our speakers:
+On behalf of all the organisers I'd like to give a big thank you to everyone who attended and of course our speakers:
 
 - Alex Walker
 - Chris Langton
@@ -11,7 +9,7 @@ On behalf of all the organiser I'd like to give a big thank to every who attende
 
 ## Slides
 
-### CSS Selectors - Chris
+### CSS Selectors - Chris Langton
 
 http://slides.com/chrislangton/css-selectors/live
 
