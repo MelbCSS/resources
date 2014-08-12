@@ -1,4 +1,4 @@
-# MelbCSS July 2014
+# MelbCSS August 2014
 
 On behalf of all the organisers I'd like to give a big thank you to everyone who attended and of course our speakers:
 
@@ -22,15 +22,14 @@ http://slides.com/jordan-lewis/managing-colour-variables
 
 ## Resources
 
-Below I've added some of the resources I mentioned during the event.
+Below I've added some of the resources mentioned during the event.
 
 ### HTML email
 
-Some useful HTML email thanks to Compaign Monitor's
+Some useful HTML email links thanks to Compaign Monitor's
 
 - Will it work? - https://www.campaignmonitor.com/resources/will-it-work/
 - The Ultimate Guide to CSS - https://www.campaignmonitor.com/css/
-
 
 ## Sponsors
 
