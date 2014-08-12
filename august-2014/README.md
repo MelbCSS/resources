@@ -10,7 +10,7 @@ On behalf of all the organisers I'd like to give a big thank you to everyone who
 
 ### Getting fancy with HTML email - Nicole Merlin
 
-[Download PDF](./nicole-melbcss.pdf )
+[Download PDF](https://github.com/MelbCSS/resources/raw/master/august-2014/nicole-melbcss.pdf )
 
 ### Building stupid things with :checked - Ryan Seddon
 
